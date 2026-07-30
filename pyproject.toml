@@ -1,0 +1,9 @@
+[project]
+name = "gemini-acreditation"
+version = "0.1.0"
+description = "An ADK 2.0 Graph Workflow Agent project."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google-adk>=2.0.0a0",
+]
