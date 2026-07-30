@@ -1,7 +1,7 @@
 [project]
-name = "gemini-acreditation"
+name = "gemini-enterprise-accreditation-agent-development"
 version = "0.1.0"
-description = "An ADK 2.0 Graph Workflow Agent project."
+description = "An ADK 2.0 graph-based workflow agent for Gemini Enterprise Accreditation."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

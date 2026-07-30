@@ -1,4 +1,4 @@
-# Gemini Accreditation
+# Gemini Enterprise Accreditation Agent Development
 
 This project is built with the Google Agent Development Kit (ADK 2.0) using the graph-based Workflow API.
 
